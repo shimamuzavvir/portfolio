@@ -1,0 +1,76 @@
+#splash {
+    background-image:linear-gradient(to right, rgb(241, 122, 196), rgb(156, 110, 80) ,rgb(186, 195, 221));
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-top: 10px;
+    padding-top: 20%;
+    padding-bottom: 20px;
+    color: #311818;
+}
+#splash h4{
+    font-size: 4em;
+    color: #000000;
+    font-style:italic;
+    margin: 10px 120px ;
+    padding: 10px 90px;
+    border-left: 120px;
+  }
+  #splash p{
+    margin: 10px 120px ;
+    padding: 10px 90px;
+    font-size: 1rem;
+    border-left: 20px;
+  }
+  #splash button{
+   margin-left: 250px;
+   border-left: 40px;
+   padding: 10px 50px;
+  }
+  #services{
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image:linear-gradient(to left,rgb(224, 52, 9), rgb(31, 7, 85),rgb(179, 92, 201));
+    margin: 1px;
+    border: 10px;
+    padding: 10px;
+  }
+  h1{
+    color:orangered;
+    }
+    h5{
+      margin: 10px;
+      border: 10px;
+      padding: 10px;
+      }
+  
+    .box-part{
+      border:20px 20px;
+      margin: 20px 20px;
+      padding: 20px 20px;
+      background-color: rgb(197, 162, 206);
+    }
+    i{
+      color: #f1481e;
+    }
+    #connect{
+      background-color: rgb(238, 141, 141);
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+      margin-top: 1px;
+    }
+    #connect h1{
+      margin: 20px;
+      border: 20px;
+      padding: 10px;
+    }
+    #connect i{
+      margin: 20px;
+      border: 20px;
+      padding: 10px;
+      font-size: 50px;
+      color:rgb(148, 87, 218)
+
+    }
